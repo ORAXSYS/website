@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title">
+  <title id="title">ORAXSYS symbol</title>
+  <defs>
+    <linearGradient id="orbit" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#6278ff"/>
+      <stop offset="0.5" stop-color="#00d9ff"/>
+      <stop offset="1" stop-color="#9b6dff"/>
+    </linearGradient>
+  </defs>
+  <circle cx="80" cy="80" r="57" fill="none" stroke="url(#orbit)" stroke-width="12"/>
+  <path d="M61 61 99 99M99 61 61 99" fill="none" stroke="#fff" stroke-width="10" stroke-linecap="round"/>
+</svg>

@@ -2,8 +2,8 @@
   "schema_version": 1,
   "source": {
     "repository": "gilshl/orqaxis-website",
-    "commit": "82db26e1c6759b80b185363861b04b55a4f84ab5",
-    "tree": "251d6ce0240c9b2286fcb73684589554dd194670"
+    "commit": "c961669cff60e33b43d2a404a009f7a14a22ae85",
+    "tree": "a5975f700601fdbd53c59296eea600d93bf521f0"
   },
   "target_repository": "ORAXSYS/website",
   "prepared_on": "2026-10-22",
@@ -11,33 +11,28 @@
   "copied_files": [
     {
       "path": "assets/favicon.svg",
-      "git_blob_sha1": "bea39faf6094ba30e6b9809c32580354ee1ef8d5",
-      "size_bytes": 245
+      "git_blob_sha1": "b1b9f5b595cd877bbcf76a50b0c01a4126b2981d",
+      "size_bytes": 548
     },
     {
-      "path": "assets/logo/ChatGPT Image Sep 9, 2026, 11_19_09 AM.png",
-      "git_blob_sha1": "3cf1195d05eebedcd0647f3c47baa3a82ab7fa8d",
-      "size_bytes": 1366429
+      "path": "assets/logo/oraxsys-mark.svg",
+      "git_blob_sha1": "5f3d349ae04894bff5b164fe3e41d7d511fae901",
+      "size_bytes": 570
     },
     {
-      "path": "assets/logo/orqaxis-logo.png",
-      "git_blob_sha1": "2349463a184a01df7dae42e746670f0e9ab6937a",
-      "size_bytes": 41
+      "path": "assets/social/oraxsys-social-preview.png",
+      "git_blob_sha1": "4dcc3663ee0c786ce7cee1988922aaf093b47412",
+      "size_bytes": 114691
     },
     {
-      "path": "assets/logo/orqaxis-logo.svg",
-      "git_blob_sha1": "2e88a1cc2de438d0921f919a95aac07fc3c69528",
-      "size_bytes": 529
-    },
-    {
-      "path": "assets/social/orqaxis-social-preview.svg",
-      "git_blob_sha1": "1f748aa36044f10b7c0726fc5c21adf78bd59ad5",
-      "size_bytes": 347
+      "path": "assets/social/oraxsys-social-preview.svg",
+      "git_blob_sha1": "2dfc90ba1299cb1b56f1ecffd0ed377c0eb0e9e1",
+      "size_bytes": 1244
     },
     {
       "path": "css/style.css",
-      "git_blob_sha1": "0c9c124e30c7ca73a59fa534800080e49c42aae0",
-      "size_bytes": 1182
+      "git_blob_sha1": "93ea8d84c65cad1f234298272ae39457bc64e633",
+      "size_bytes": 1254
     },
     {
       "path": "diagrams/agentic-flow.svg",
@@ -51,34 +46,34 @@
     },
     {
       "path": "docs/architecture.md",
-      "git_blob_sha1": "dc2e4581e700f0abc04e4cbcc6aabf6235ba9f98",
+      "git_blob_sha1": "0f202251dd7c08e8eae8533147d207ae4f80aa11",
       "size_bytes": 884
     },
     {
       "path": "docs/roadmap.md",
-      "git_blob_sha1": "a828e246a5bbead7e90874094243273ece2d86fc",
+      "git_blob_sha1": "bce88255bee9f9000227dcea544cd6896777fd69",
       "size_bytes": 438
     },
     {
       "path": "index.html",
-      "git_blob_sha1": "9341c06222cab229481926b7715b1d058cfc2a40",
-      "size_bytes": 1866
+      "git_blob_sha1": "f6bbc3f4cbe0cffb3b08d9afb31e0725cc5e1b28",
+      "size_bytes": 2525
     }
   ],
   "replaced_source_files": [
     "README.md",
     "docs/deployment.md"
   ],
-  "excluded_source_files": [
-    "CNAME",
-    ".github/workflows/pages.yml"
-  ],
+  "excluded_source_files": [],
   "added_files": [
     ".nojekyll",
+    "CNAME",
     "publication.json"
   ],
   "custom_domain": {
     "hostname": "oraxsys.com",
-    "cutover_pending": true
+    "cutover_pending": false,
+    "https_verified_on": "2026-10-22",
+    "www_redirect_verified_on": "2026-10-22"
   }
 }

@@ -1,8 +1,8 @@
-# ORQAXIS Architecture
+# ORAXSYS Architecture
 
 ## Enterprise AI Agent Orchestration Platform
 
-ORQAXIS is designed as an enterprise platform for designing, executing and governing intelligent workflows powered by AI Agents.
+ORAXSYS is designed as an enterprise platform for designing, executing and governing intelligent workflows powered by AI Agents.
 
 ## Core Architecture Concepts
 
