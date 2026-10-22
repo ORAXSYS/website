@@ -2,8 +2,8 @@
   "schema_version": 1,
   "source": {
     "repository": "gilshl/orqaxis-website",
-    "commit": "c961669cff60e33b43d2a404a009f7a14a22ae85",
-    "tree": "a5975f700601fdbd53c59296eea600d93bf521f0"
+    "commit": "62b3bfa5265dd51db8dba3d402c4124948f789b5",
+    "tree": "ff05450d8db1532bbb76bf082a791fbe428aa531"
   },
   "target_repository": "ORAXSYS/website",
   "prepared_on": "2026-10-22",
@@ -56,8 +56,8 @@
     },
     {
       "path": "index.html",
-      "git_blob_sha1": "f6bbc3f4cbe0cffb3b08d9afb31e0725cc5e1b28",
-      "size_bytes": 2525
+      "git_blob_sha1": "bb5ab0a957a95679835b7996e0cd3a57d2588633",
+      "size_bytes": 2530
     }
   ],
   "replaced_source_files": [

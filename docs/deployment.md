@@ -21,4 +21,4 @@ Development pushes do not update production. If a published snapshot is broken, 
 
 ## Email contact
 
-The website does not advertise a domain email address until it is configured and tested. After enabling inbound delivery for `hello@oraxsys.com` and verifying a message arrives, the main call to action can link to that address in a later reviewed release.
+Cloudflare Email Routing forwards `hello@oraxsys.com` to the verified destination mailbox. A test sent to this address arrived in the destination Gmail inbox on 2026-10-22. The website's Contact Us button uses this address. Routing handles incoming mail; sending as this address requires a separate outbound mail configuration.
