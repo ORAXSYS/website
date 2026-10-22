@@ -2,37 +2,37 @@
   "schema_version": 1,
   "source": {
     "repository": "gilshl/orqaxis-website",
-    "commit": "62b3bfa5265dd51db8dba3d402c4124948f789b5",
-    "tree": "ff05450d8db1532bbb76bf082a791fbe428aa531"
+    "commit": "a71bbd7dd39f59a4eb48c518695601980664ce3b",
+    "tree": "9bb39901a8fb55d96208895c955f83c0388392eb"
   },
   "target_repository": "ORAXSYS/website",
   "prepared_on": "2026-10-22",
   "promotion": "Manual reviewed snapshot; development pushes do not update production.",
   "copied_files": [
     {
-      "path": "assets/favicon.svg",
-      "git_blob_sha1": "b1b9f5b595cd877bbcf76a50b0c01a4126b2981d",
-      "size_bytes": 548
+      "path": "assets/favicon.png",
+      "git_blob_sha1": "3c00fec4da0a95a8ede9ca6bdb74e781fbd82b42",
+      "size_bytes": 7461
     },
     {
-      "path": "assets/logo/oraxsys-mark.svg",
-      "git_blob_sha1": "5f3d349ae04894bff5b164fe3e41d7d511fae901",
-      "size_bytes": 570
+      "path": "assets/logo/oraxsys-dark.png",
+      "git_blob_sha1": "1c17e19409a9352f4e3c5b3eaa4cac711c6d280c",
+      "size_bytes": 8346
+    },
+    {
+      "path": "assets/logo/oraxsys-light.png",
+      "git_blob_sha1": "1366ad926dd9110de0559b85b60532c30f099173",
+      "size_bytes": 8555
     },
     {
       "path": "assets/social/oraxsys-social-preview.png",
-      "git_blob_sha1": "4dcc3663ee0c786ce7cee1988922aaf093b47412",
-      "size_bytes": 114691
-    },
-    {
-      "path": "assets/social/oraxsys-social-preview.svg",
-      "git_blob_sha1": "2dfc90ba1299cb1b56f1ecffd0ed377c0eb0e9e1",
-      "size_bytes": 1244
+      "git_blob_sha1": "95f6a910d3bd7818a717d644f2784086f0e974f7",
+      "size_bytes": 99413
     },
     {
       "path": "css/style.css",
-      "git_blob_sha1": "93ea8d84c65cad1f234298272ae39457bc64e633",
-      "size_bytes": 1254
+      "git_blob_sha1": "f302d30ba682997be3c067044e7ecd55e9fc0c52",
+      "size_bytes": 1527
     },
     {
       "path": "diagrams/agentic-flow.svg",
@@ -56,8 +56,8 @@
     },
     {
       "path": "index.html",
-      "git_blob_sha1": "bb5ab0a957a95679835b7996e0cd3a57d2588633",
-      "size_bytes": 2530
+      "git_blob_sha1": "4deb4d832699bc849e19868db3f5248f3b2bc5e2",
+      "size_bytes": 2704
     }
   ],
   "replaced_source_files": [

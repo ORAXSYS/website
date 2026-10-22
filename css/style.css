@@ -17,20 +17,27 @@ body {
  min-height:650px;
  display:flex;
  align-items:center;
- background:radial-gradient(circle at top right,#243cff,#050b1d 45%);
+ background:#000;
  color:white;
 }
 
 .logo {
- width:160px;
- height:160px;
+ display:block;
+ width:min(100%,580px);
+ height:auto;
  margin-bottom:20px;
 }
 
-.hero h1 {
- font-size:clamp(38px, 8vw, 72px);
- letter-spacing:.09em;
- margin:10px 0;
+.visually-hidden {
+ position:absolute;
+ width:1px;
+ height:1px;
+ padding:0;
+ margin:-1px;
+ overflow:hidden;
+ clip:rect(0,0,0,0);
+ white-space:nowrap;
+ border:0;
 }
 
 .hero h2 {
@@ -85,6 +92,22 @@ section p {
 }
 
 footer {
- background:#050b1d;
- color:white;
+ background:#fff;
+ color:#121827;
+ border-top:1px solid #d9e0ea;
+}
+
+.footer-inner {
+ display:flex;
+ align-items:center;
+ justify-content:space-between;
+ gap:24px;
+ flex-wrap:wrap;
+}
+
+.footer-logo {
+ display:block;
+ width:290px;
+ max-width:100%;
+ height:auto;
 }
