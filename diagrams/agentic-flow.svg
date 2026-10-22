@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300">
+<rect width="900" height="300" fill="#090014"/>
+<g fill="white" font-family="Arial" text-anchor="middle">
+<rect x="40" y="110" width="120" height="60" rx="10" fill="#24103d"/><text x="100" y="145">Trigger</text>
+<rect x="210" y="110" width="140" height="60" rx="10" fill="#24103d"/><text x="280" y="145">Context</text>
+<rect x="400" y="110" width="140" height="60" rx="10" fill="#24103d"/><text x="470" y="145">AI Agent</text>
+<rect x="590" y="110" width="140" height="60" rx="10" fill="#24103d"/><text x="660" y="145">Tools</text>
+<rect x="780" y="110" width="80" height="60" rx="10" fill="#24103d"/><text x="820" y="145">Run</text>
+</g>
+<g stroke="white" stroke-width="3"><path d="M160 140 L210 140"/><path d="M350 140 L400 140"/><path d="M540 140 L590 140"/><path d="M730 140 L780 140"/></g>
+</svg>
